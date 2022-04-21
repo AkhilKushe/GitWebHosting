@@ -1,2 +1,2 @@
 # Git Web Hosting
-This is a web hosting project
+This is a web hosting project.
